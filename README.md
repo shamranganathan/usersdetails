@@ -3,9 +3,11 @@
 # Technologies used: MERN Stack
 
 To run the application we need both the backend (Node.js server with MongoDB) and the frontend (React application) are running. 
-# Step 1: Start the Backend Server  :# node server.js
+# Step 1: Start the Backend Server  :
+             # node server.js
 
-# Step 2: Start the Frontend React Application : #npm start
+# Step 2: Start the Frontend React Application : 
+             # npm start
 
 
 Once both servers are running:
